@@ -1,6 +1,0 @@
-C:\Users\Vitor\Desktop\Exercicios\dojo\QuebraDeLinha\QuebraDeLinha\bin\Debug\QuebraDeLinha.exe.config
-C:\Users\Vitor\Desktop\Exercicios\dojo\QuebraDeLinha\QuebraDeLinha\bin\Debug\QuebraDeLinha.exe
-C:\Users\Vitor\Desktop\Exercicios\dojo\QuebraDeLinha\QuebraDeLinha\bin\Debug\QuebraDeLinha.pdb
-C:\Users\Vitor\Desktop\Exercicios\dojo\QuebraDeLinha\QuebraDeLinha\obj\Debug\QuebraDeLinha.csprojResolveAssemblyReference.cache
-C:\Users\Vitor\Desktop\Exercicios\dojo\QuebraDeLinha\QuebraDeLinha\obj\Debug\QuebraDeLinha.exe
-C:\Users\Vitor\Desktop\Exercicios\dojo\QuebraDeLinha\QuebraDeLinha\obj\Debug\QuebraDeLinha.pdb
