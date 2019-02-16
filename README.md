@@ -8,3 +8,4 @@ Um pequeno jabuti
 xereta viu dez
 cegonhas felizes.
 ```
+[próximo desafio - Problema do Miojo](http://dojopuzzles.com/problemas/exibe/problema-do-miojo/)
